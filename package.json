@@ -22,7 +22,8 @@
         "clean": "node scripts/remove-empty.js",
         "test": "dtslint types",
         "lint": "dtslint types",
-        "prettier": "prettier"
+        "prettier": "prettier",
+        "publish-kob": "npm publish"
     },
     "devDependencies": {
         "@definitelytyped/definitions-parser": "latest",
